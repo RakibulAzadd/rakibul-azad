@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [HSTU Alumni Association](http://hstualumni2024.infinityfreeapp.com/index.com)
 
-- 🤝 I’m looking for help with [HSTU TMS](http://hstutms.wuaze.com/index.php)
+- 🤝 I’m looking to also collaborate on [HSTU TMS](http://hstutms.wuaze.com/index.php)
 
 - 👨‍💻 All of my projects are available at [https://github.com/RakibulAzadd](https://github.com/RakibulAzadd)
 
